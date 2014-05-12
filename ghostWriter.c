@@ -6,7 +6,7 @@
  *
  * April, 2014
  *
- * Type any junk on the screen still you will look like a geek.
+ * Run and have fun.
  *
  *****************************************************************************/
 
